@@ -28,3 +28,12 @@ const myFunction = function() {
    console.log("Hello world");
     
 }
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitive), Heap (Non-Primitive)
+
+let myYoutubechannel = "imrandotcom"
+
+let anotherName = myYoutubechannel
+console.log(anotherName);
